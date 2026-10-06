@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Sudhip👋
+# 👋 Hey, I'm Sudhip
 
 ### 🎓 First-Year Computer Science Engineering Student
 
@@ -23,20 +23,20 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **first-year Computer Science Engineering student** at **St. Joseph's College of Engineering, OMR, Chennai**, building my foundation in programming while exploring the wider world of software and technology.
+I'm a **first-year Computer Science Engineering student** at **St. Joseph's College of Engineering, OMR, Chennai**, building a strong foundation in programming while exploring different areas of software and technology.
 
-* 🐍 Learning programming fundamentals through **Python**
-* ⚡ Developing programming and problem-solving skills with **C++**
-* 🧠 Strengthening logical thinking and computational problem solving
-* 🤖 Exploring **Artificial Intelligence** and AI-assisted development
-* 🌐 Exploring Web Development through AI-powered tools
-* 🛠️ Turning ideas into practical projects and prototypes
-* 🏆 Participating in hackathons and technical events
-* 🤝 Learning through collaboration and team-based projects
-* 🔍 Exploring different areas of Computer Science before choosing a specialization
-* 📈 Improving through consistent practice, experimentation, and building
+* Learning programming fundamentals through **Python**
+* Developing programming and problem-solving skills with **C++**
+* Strengthening logical and computational thinking
+* Exploring **Artificial Intelligence** and AI-assisted development
+* Exploring Web Development through AI-powered tools
+* Building practical projects and prototypes
+* Participating in hackathons and technical events
+* Learning through collaboration and team-based projects
+* Exploring different areas of Computer Science before choosing a specialization
+* Continuously improving through practice, experimentation, and building
 
 > **Curious about technology. Focused on learning. Driven to build.**
 
@@ -44,7 +44,7 @@ I'm a **first-year Computer Science Engineering student** at **St. Joseph's Coll
 
 ## 💻 Technical Foundation
 
-### 🧑‍💻 Programming
+### Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp" />
@@ -56,7 +56,7 @@ I'm a **first-year Computer Science Engineering student** at **St. Joseph's Coll
 
 ---
 
-### 🛠️ Development Tools
+### Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -70,19 +70,19 @@ I'm a **first-year Computer Science Engineering student** at **St. Joseph's Coll
 
 ---
 
-### 🤖 AI-Assisted Development
+### AI-Assisted Development
 
 **AI Development Tools** — Using AI-powered tools to accelerate prototyping, explore unfamiliar technologies, and turn ideas into functional projects while learning the underlying concepts.
 
 ---
 
-## 🌱 Currently Exploring
+## 🤖 Currently Exploring
 
-* 🤖 **Artificial Intelligence** — Exploring AI concepts, tools, and practical applications.
-* 🌐 **Web Development** — Learning how modern websites and applications are structured through AI-assisted development.
-* 💻 **Software Development** — Understanding how ideas become reliable and usable software.
-* 🧩 **Data Structures & Algorithms** — Building a foundation for efficient problem solving.
-* 🎨 **UI/UX & Product Development** — Exploring interfaces, user needs, and product thinking.
+* **Artificial Intelligence** — Exploring AI concepts, tools, and practical applications.
+* **Web Development** — Exploring modern web development through AI-assisted tools.
+* **Software Development** — Understanding how ideas become practical and usable software.
+* **Data Structures & Algorithms** — Building a foundation for efficient problem solving.
+* **UI/UX & Product Development** — Exploring interfaces, user needs, and product thinking.
 
 ---
 
@@ -94,12 +94,12 @@ I'm a **first-year Computer Science Engineering student** at **St. Joseph's Coll
 
 A growing collection of programs, exercises, experiments, and implementations from my programming journey.
 
-* 🐍 Python practice
-* ⚡ C++ practice
-* 🧩 Programming exercises
-* 🧠 Problem-solving implementations
-* 🛠️ Small experiments
-* 📚 Learning projects
+* Python practice
+* C++ practice
+* Programming exercises
+* Problem-solving implementations
+* Small experiments
+* Learning projects
 
 <p>
   <a href="https://github.com/sudhip-dev/my_code">
@@ -109,9 +109,9 @@ A growing collection of programs, exercises, experiments, and implementations fr
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Featured Project
 
-### 🗺️ BhuVerify AI
+### BhuVerify AI
 
 **AI-Assisted Land Record Digitization & Validation System**
 
@@ -119,14 +119,14 @@ A hackathon prototype exploring how AI can assist in digitizing, understanding, 
 
 **Key areas:**
 
-* 🤖 AI-assisted document understanding
-* 🔎 OCR and information extraction
-* 🌐 Multilingual document processing
-* 🗺️ GIS and map-based visualization
-* 🔐 Document validation and audit concepts
-* 👨‍💼 Human-in-the-loop review
-* 🧠 AI-assisted decision support
-* 📄 Structured information extraction
+* AI-assisted document understanding
+* OCR and information extraction
+* Multilingual document processing
+* GIS and map-based visualization
+* Document validation and audit concepts
+* Human-in-the-loop review
+* AI-assisted decision support
+* Structured information extraction
 
 **Focus:** `AI` · `OCR` · `Document Intelligence` · `GIS` · `Software Systems`
 
@@ -136,14 +136,14 @@ A hackathon prototype exploring how AI can assist in digitizing, understanding, 
 
 Hackathons give me an opportunity to move beyond theory and experience the process of turning a problem statement into a working prototype.
 
-* 🚀 Building solutions around real-world problems
-* 🤝 Collaborating with teammates on technical projects
-* 🤖 Experimenting with AI-powered development workflows
-* 💡 Turning concepts into functional prototypes
-* 🔍 Exploring unfamiliar technologies
-* 🧠 Understanding problems from both technical and user perspectives
-* 📊 Iterating based on requirements and feedback
-* 📈 Learning from every project and challenge
+* Building solutions around real-world problems
+* Collaborating with teammates on technical projects
+* Experimenting with AI-powered development workflows
+* Turning concepts into functional prototypes
+* Exploring unfamiliar technologies
+* Understanding problems from both technical and user perspectives
+* Iterating based on requirements and feedback
+* Learning from every project and challenge
 
 ---
 
@@ -151,16 +151,16 @@ Hackathons give me an opportunity to move beyond theory and experience the proce
 
 Rather than rushing into a fixed technology stack, I'm focused on developing a strong Computer Science foundation while exploring different areas of technology.
 
-| Area                           | Current Focus                             |
-| ------------------------------ | ----------------------------------------- |
-| 🐍 **Programming**             | Python, C++, core programming concepts    |
-| 🧩 **Problem Solving**         | Logic, algorithms, computational thinking |
-| 📚 **Data Structures**         | Foundational concepts and implementation  |
-| 💻 **Software Development**    | Practical applications and prototypes     |
-| 🤖 **Artificial Intelligence** | AI concepts, tools, and applications      |
-| 🌐 **Web Development**         | Learning through AI-assisted development  |
-| 🎨 **Product Development**     | UI/UX, users, ideas, and solutions        |
-| 🤝 **Collaboration**           | Hackathons and team projects              |
+| Area                        | Current Focus                             |
+| --------------------------- | ----------------------------------------- |
+| **Programming**             | Python, C++, core programming concepts    |
+| **Problem Solving**         | Logic, algorithms, computational thinking |
+| **Data Structures**         | Foundational concepts and implementation  |
+| **Software Development**    | Practical applications and prototypes     |
+| **Artificial Intelligence** | AI concepts, tools, and applications      |
+| **Web Development**         | Learning through AI-assisted development  |
+| **Product Development**     | UI/UX, users, ideas, and solutions        |
+| **Collaboration**           | Hackathons and team projects              |
 
 ---
 
@@ -170,16 +170,16 @@ My goal isn't simply to collect technologies.
 
 I want to become someone who can **understand a problem, reason about a solution, and build something useful.**
 
-* 📚 Strengthen programming fundamentals
-* 🧩 Develop stronger Data Structures & Algorithms skills
-* 🧠 Improve logical and analytical thinking
-* 🛠️ Build meaningful projects
-* 🏆 Gain practical experience through hackathons
-* 🤖 Explore AI and modern development workflows
-* 🌐 Understand different areas of software development
-* 🔓 Gradually explore open-source contribution
-* 🤝 Become better at collaborative development
-* 🎯 Discover the CSE specialization that best fits my strengths and interests
+* Strengthen programming fundamentals
+* Develop stronger Data Structures & Algorithms skills
+* Improve logical and analytical thinking
+* Build meaningful projects
+* Gain practical experience through hackathons
+* Explore AI and modern development workflows
+* Understand different areas of software development
+* Gradually explore open-source contribution
+* Become better at collaborative development
+* Discover the CSE specialization that best fits my strengths and interests
 
 ---
 
@@ -225,8 +225,8 @@ I want to become someone who can **understand a problem, reason about a solution
 
 ## 🌐 Connect
 
-*  **GitHub:** [sudhip-dev](https://github.com/sudhip-dev)
-*  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sudhip-anbukumar-3b1413350)
+* **GitHub:** [sudhip-dev](https://github.com/sudhip-dev)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sudhip-anbukumar-3b1413350)
 
 ---
 
