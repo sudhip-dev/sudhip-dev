@@ -1,241 +1,75 @@
 <div align="center">
 
-# 👋 Hi, I'm **Sudhip**
+# 👋 Hey, I'm **Sudhip**
 
 ### 🎓 First-Year Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Exploring;Python+%7C+C%2B%2B;Exploring+Software+Development;Exploring+Artificial+Intelligence;Building+with+AI+Tools;Learning+Through+Hackathons" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Exploring;Python+%7C+C%2B%2B+Developer+in+Progress;Exploring+Software+Development;Exploring+AI+%26+Emerging+Technology;Building+Projects+with+AI+Tools;Learning+Through+Hackathons+%26+Projects" alt="Typing animation" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sudhip--dev-181717?style=for-the-badge&logo=github)](https://github.com/sudhip-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<a href="https://github.com/sudhip-dev">
+  <img src="https://img.shields.io/badge/GitHub-sudhip--dev-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+> **Curious about technology. Focused on learning. Building one step at a time. 🚀**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a first-year **Computer Science Engineering student** interested in programming, software development, and technology.
+I'm a **first-year Computer Science Engineering student** interested in programming, software development, and emerging technologies.
 
-I'm currently building my programming fundamentals, exploring different areas of Computer Science, and learning through **projects and hackathons**.
+My current focus is building a strong foundation in **Python, C++, problem solving, and core Computer Science concepts** while exploring where I can take my skills next.
 
-I primarily work with **Python and C++** and use **AI-powered development tools** to experiment with and build websites while learning more about software development.
+I also use **AI-powered development tools** to turn ideas into working website prototypes and applications. Rather than presenting myself as an expert in web development, I'm using these projects as a way to **experiment, learn, and understand how modern software is built**.
 
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-- 🐍 Python
-- ⚙️ C++
-- 🔧 Git & GitHub
-- 💻 Programming Fundamentals
-- 🌐 Exploring Web Development
-- 🤖 Exploring Artificial Intelligence
-- 🧠 Problem Solving
-
-> I use AI-powered development tools to build and experiment with websites while learning more about the technologies behind them.
+🏆 I enjoy participating in **hackathons**, working on team projects, and solving real-world problems through technology.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧰 What I Work With
 
 ### 💻 Programming
 
-`Python` `C++`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-### 🔧 Tools
+### 🔧 Development Tools
 
-`Git` `GitHub` `VS Code`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-### 🤖 Exploring
+### 🔭 Currently Exploring
 
-`Artificial Intelligence` `Web Development` `Software Development`
-
----
-
-# 🚀 Projects
-
-### 🔹 My Code
-
-My collection of programming practice and learning projects.
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-my__code-58A6FF?style=for-the-badge&logo=github)](https://github.com/sudhip-dev/my_code)
+`Artificial Intelligence` · `Web Development` · `Software Development` · `DSA` · `UI/UX`
 
 ---
 
-### 🔹 BhuVerify AI
-
-An AI-assisted **land record digitization and validation** project developed as a hackathon prototype.
-
-Exploring how AI, document processing, OCR, GIS, and human review can work together to solve a real-world problem.
-
-**Focus:** `AI` `OCR` `GIS` `Document Processing` `Software Development`
-
----
-
-### 🔹 More Projects Coming Soon...
-
-I'm currently working on projects to strengthen my programming and software development skills.
-
----
-
-# 🏆 Hackathons & Activities
-
-- 🏆 Participating in student hackathons
-- 💡 Building real-world software prototypes
-- 👥 Working on team projects
-- 🤖 Exploring AI and technology
-- 🚀 Learning through hands-on projects
-
----
-
-# 🧭 Areas I'm Exploring
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Software Development
-
-Building practical applications and strengthening software engineering fundamentals.
-
-</td>
-
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-
-Exploring AI concepts and AI-powered development tools.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Web Development
-
-Experimenting with website development using AI-assisted tools.
-
-</td>
-
-<td width="50%">
-
-### 🧠 Problem Solving
-
-Improving logical thinking and programming skills.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎨 UI/UX & Product Development
-
-Exploring how useful and engaging digital products are designed.
-
-</td>
-
-<td width="50%">
-
-### 📚 Data Structures & Algorithms
-
-Building a stronger foundation in problem solving and core CSE concepts.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎯 My Goals
-
-- 💪 Build strong programming fundamentals
-- 🧠 Improve problem-solving skills
-- 📊 Learn Data Structures & Algorithms
-- 🚀 Build meaningful projects
-- 🏆 Participate in hackathons
-- 🔍 Explore different areas of CSE
-- 🤝 Contribute to open-source projects
-- 💻 Grow toward a career in software development
-
----
-
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sudhip-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhip-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sudhip-dev&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/sudhip-dev/my_code">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhip-dev&repo=my_code&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
----
+### 🧠 My Code
 
-# 🐍 Contribution Activity
+A growing collection of my **programming practice, experiments, and learning projects**.
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
-
-# 🧭 My Learning Journey
-
-<div align="center">
-
-### **Learn → Build → Explore → Experience → Grow**
-
-</div>
-
-```text
-                    🎓 CSE
-                      │
-             ┌────────┴────────┐
-             ↓                 ↓
-          🐍 Python          ⚙️ C++
-             │                 │
-             └────────┬────────┘
-                      ↓
-             🧠 Programming
-              Fundamentals
-                      │
-                      ↓
-             📊 Problem Solving
-                      │
-                      ↓
-          🚀 Projects & Hackathons
-                      │
-             ┌────────┼────────┐
-             ↓        ↓        ↓
-           🤖 AI     🌐 Web    💻 Software
-             │        │        │
-             └────────┼────────┘
-                      ↓
-              🌱 Keep Learning
+**Focus:** Python · C++ · Prog
