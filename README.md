@@ -225,8 +225,8 @@ I want to become someone who can **understand a problem, reason about a solution
 
 ## 🌐 Connect
 
-* 🐙 **GitHub:** [sudhip-dev](https://github.com/sudhip-dev)
-* 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+*  **GitHub:** [sudhip-dev](https://github.com/sudhip-dev)
+*  **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 
 ---
 
