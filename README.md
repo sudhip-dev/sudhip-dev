@@ -8,18 +8,10 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sudhip--dev-181717?style=for-the-badge\&logo=github)](https://github.com/sudhip-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-sudhip--dev-181717?style=for-the-badge&logo=github)](https://github.com/sudhip-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-sudhip--dev-181717?style=for-the-badge\&logo=github)](https://github.com/sudhip-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-![Profile Views](https://komarev.com/ghpvc/?username=sudhip-dev\&label=Profile%20Views\&color=58A6FF\&style=for-the-badge)
-
-</div>
-
 
 ---
 
@@ -37,23 +29,23 @@ I primarily work with **Python and C++** and use **AI-powered development tools*
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-* 🐍 Python
-* ⚙️ C++
-* 🔧 Git & GitHub
-* 💻 Programming Fundamentals
-* 🌐 Exploring Web Development
-* 🤖 Exploring Artificial Intelligence
-* 🧠 Problem Solving
+- 🐍 Python
+- ⚙️ C++
+- 🔧 Git & GitHub
+- 💻 Programming Fundamentals
+- 🌐 Exploring Web Development
+- 🤖 Exploring Artificial Intelligence
+- 🧠 Problem Solving
 
-> **Note:** I use AI development tools to build and experiment with websites while I'm still learning the underlying web technologies.
+> I use AI-powered development tools to build and experiment with websites while learning more about the technologies behind them.
 
 ---
 
@@ -79,7 +71,7 @@ I primarily work with **Python and C++** and use **AI-powered development tools*
 
 My collection of programming practice and learning projects.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-my__code-58A6FF?style=for-the-badge\&logo=github)](https://github.com/sudhip-dev/my_code)
+[![View Repository](https://img.shields.io/badge/View%20Repository-my__code-58A6FF?style=for-the-badge&logo=github)](https://github.com/sudhip-dev/my_code)
 
 ---
 
@@ -101,11 +93,11 @@ I'm currently working on projects to strengthen my programming and software deve
 
 # 🏆 Hackathons & Activities
 
-* 🏆 Participating in student hackathons
-* 💡 Building real-world software prototypes
-* 👥 Working on team projects
-* 🤖 Exploring AI and technology
-* 🚀 Learning through hands-on projects
+- 🏆 Participating in student hackathons
+- 💡 Building real-world software prototypes
+- 👥 Working on team projects
+- 🤖 Exploring AI and technology
+- 🚀 Learning through hands-on projects
 
 ---
 
@@ -120,6 +112,7 @@ I'm currently working on projects to strengthen my programming and software deve
 Building practical applications and strengthening software engineering fundamentals.
 
 </td>
+
 <td width="50%">
 
 ### 🤖 Artificial Intelligence
@@ -137,6 +130,7 @@ Exploring AI concepts and AI-powered development tools.
 Experimenting with website development using AI-assisted tools.
 
 </td>
+
 <td width="50%">
 
 ### 🧠 Problem Solving
@@ -154,6 +148,7 @@ Improving logical thinking and programming skills.
 Exploring how useful and engaging digital products are designed.
 
 </td>
+
 <td width="50%">
 
 ### 📚 Data Structures & Algorithms
@@ -168,14 +163,14 @@ Building a stronger foundation in problem solving and core CSE concepts.
 
 # 🎯 My Goals
 
-* 💪 Build strong programming fundamentals
-* 🧠 Improve problem-solving skills
-* 📊 Learn Data Structures & Algorithms
-* 🚀 Build meaningful projects
-* 🏆 Participate in hackathons
-* 🔍 Explore different areas of CSE
-* 🤝 Contribute to open-source projects
-* 💻 Grow toward a career in software development
+- 💪 Build strong programming fundamentals
+- 🧠 Improve problem-solving skills
+- 📊 Learn Data Structures & Algorithms
+- 🚀 Build meaningful projects
+- 🏆 Participate in hackathons
+- 🔍 Explore different areas of CSE
+- 🤝 Contribute to open-source projects
+- 💻 Grow toward a career in software development
 
 ---
 
@@ -201,7 +196,7 @@ Building a stronger foundation in problem solving and core CSE concepts.
 
 ---
 
-# 🐍 GitHub Contribution Activity
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -244,41 +239,3 @@ Building a stronger foundation in problem solving and core CSE concepts.
              └────────┼────────┘
                       ↓
               🌱 Keep Learning
-```
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhip-dev\&theme=tokyo-night\&hide_border=true)
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@sudhip--dev-181717?style=for-the-badge\&logo=github)](https://github.com/sudhip-dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ **Learn. Build. Improve. Repeat.**
-
-I'm just getting started — one project, one problem,
-and one lesson at a time. 🚀
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8B5CF6&height=110&section=footer" />
-
-</div>
