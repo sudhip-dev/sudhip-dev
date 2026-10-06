@@ -234,9 +234,10 @@ I want to become someone who can **understand a problem, reason about a solution
 
 <div align="center">
 
-**Thanks for visiting my profile. ✨**
+<h1><strong>Thanks for visiting my profile. ✨</strong></h1>
 
 </div>
+
 
 <div align="center">
 
