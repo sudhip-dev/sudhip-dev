@@ -230,6 +230,8 @@ I want to become someone who can **understand a problem, reason about a solution
 
 ---
 
+
+
 <div align="center">
 
 **Thanks for visiting my profile. ✨**
@@ -238,7 +240,7 @@ I want to become someone who can **understand a problem, reason about a solution
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=100&section=footer" />
 
 </div>
 
