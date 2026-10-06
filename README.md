@@ -9,9 +9,11 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-sudhip--dev-181717?style=for-the-badge\&logo=github)](https://github.com/sudhip-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
 ![Profile Views](https://komarev.com/ghpvc/?username=sudhip-dev\&label=Profile%20Views\&color=58A6FF\&style=for-the-badge)
 
 </div>
+
 
 ---
 
